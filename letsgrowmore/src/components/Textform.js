@@ -40,7 +40,7 @@ const intoTitleCase = () => {
   }
   const [text, setText] = useState("Enter your text here");
 
-  //   setText("this is jiyan");
+
   return (
     <>
       <div className="container" style={{color:props.mode==="dark" ? "white" : "#042743"}}
