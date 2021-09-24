@@ -10,7 +10,7 @@ export default function About() {
 
     
     const toggle = () => {
-        console.log("jiyan")
+        console.log("")
         if (mystyle.color ==="white") {
             setMyStyle({
                 color:'black',
